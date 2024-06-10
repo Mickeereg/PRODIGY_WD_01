@@ -10,3 +10,5 @@ This project showcases an interactive navigation menu with a neon button effect.
 1. HTML: For structuring the navigation menu and content sections.
 2. CSS: To style the navigation menu with a neon button effect and other visual enhancements.
 3. JavaScript: For adding interactivity, such as smooth scrolling and dynamic background color changes.
+## Screenshots
+![PRODIGY_WD_01](https://github.com/Mickeereg/PRODIGY_WD_01/assets/101388543/b8b13524-67e5-4053-9011-28ca4f065f31)
